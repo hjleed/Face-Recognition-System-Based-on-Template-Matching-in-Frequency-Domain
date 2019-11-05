@@ -6,12 +6,12 @@ The experimental  results  show  that this technique is powerful and improve the
 ![Test Image 1](https://github.com/hjleed/Project1_part/blob/master/Face-Recognition-System-Based-on-Template-Matching-in-Frequency-Domain
 /recognition.png)
 
-`code()'
-@inproceedings{ghar2013face,
-title={Face Recognition System Based on Template Matching in Frequency Domain},
-author={Ghariba, Bashir and Jleed, Hitham},
-booktitle={2013 BCS International IT Conference},
-pages={13--16},
-year={2013},
-organization={IEEE}
-}
+
+@inproceedings{ghar2013face,<br>
+  title={Face Recognition System Based on Template Matching in Frequency Domain},<br>
+  author={Ghariba, Bashir and Jleed, Hitham},<br>
+  booktitle={2013 BCS International IT Conference},<br>
+  pages={13--16},<br>
+  year={2013},<br>
+  organization={IEEE}<br>
+}<br>
